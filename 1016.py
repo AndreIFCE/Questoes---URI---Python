@@ -1,5 +1,5 @@
-y = int(input())
+x = int(input())
 
-y = y * 2
+x = x * 2
 
-print("{} minutos".format(y))
+print("{} minutos".format(x))
