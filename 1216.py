@@ -11,6 +11,8 @@ while(True):
         soma = soma + distancia
 
         cont = cont + 1
+        
+        #print(cont)
 
     except EOFError:
 
