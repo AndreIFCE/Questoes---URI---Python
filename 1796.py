@@ -1,5 +1,7 @@
 opinioes = int(input())
 
+#print(type(opinioes))
+
 respostas = list(map(int, input().split()))
 
 contra = gostam = 0
