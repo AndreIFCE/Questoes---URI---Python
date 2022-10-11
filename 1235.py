@@ -24,6 +24,8 @@ for i in range(n):
     for i in range(len(palavra)):
 
         parte2.append(palavra[i])
+        
+        #print(parte2)
 
 
     parte1[::-1]
